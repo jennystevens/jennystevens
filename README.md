@@ -1,5 +1,5 @@
-## Hi, I'm Jenny Stevens, VFX Artist and aspiring Software Developer.
-## After 13 years of making things go boom and sparkle as an artist in videogames, I now plan to follow my passion and knack for problem solving as software engineer. <br>
+## Hi, I'm Jenny Stevens, Realtime VFX Artist and aspiring Software Developer.
+## I've been making things go boom and sparkle as an artist in videogames for 13 years now, and recently discovered my love for coding. <br>
 
 ## I enjoy all kinds of games and fictions, learning new things, and I feel a strong responsibility towards society and our planet. <br>
 
